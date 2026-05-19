@@ -1,0 +1,201 @@
+﻿City,City_Safe,Lat,Lon,Climate_Proxy,Income_Level,Population,ISO2
+Najrān,Najrn,17.49326,44.12766,Tropical,HIC,505652,SA
+Makkah,Makkah,21.42664,39.82563,Tropical,HIC,1578722,SA
+Honolulu,Honolulu,21.30694,-157.85833,Tropical,HIC,350964,US
+Khamis Mushait,Khamis_Mushait,18.3,42.73333,Tropical,HIC,387553,SA
+Ta’if,Taif,21.27028,40.41583,Tropical,HIC,688693,SA
+Jeddah,Jeddah,21.49012,39.18624,Tropical,HIC,4697000,SA
+João Pessoa,Joo_Pessoa,-7.115,-34.86306,Tropical,UMC,817511,BR
+Yangjiang,Yangjiang,21.85563,111.96272,Tropical,UMC,1292987,CN
+Cartagena,Cartagena,10.39817,-75.49328,Tropical,UMC,914552,CO
+Ixtapaluca,Ixtapaluca,19.31556,-98.88284,Tropical,UMC,322271,MX
+Arequipa,Arequipa,-16.39899,-71.53747,Tropical,UMC,1008290,PE
+Medellín,Medelln,6.245,-75.57151,Tropical,UMC,1999979,CO
+Yulin,Yulin,22.6305,110.14686,Tropical,UMC,1056743,CN
+Soledad,Soledad,10.91843,-74.76459,Tropical,UMC,342556,CO
+Pasir Gudang,Pasir_Gudang,1.462,103.9053,Tropical,UMC,534659,MY
+Sandakan,Sandakan,5.8402,118.1179,Tropical,UMC,439050,MY
+Bauru,Bauru,-22.31472,-49.06056,Tropical,UMC,379297,BR
+Belém,Belm,-1.45583,-48.50444,Tropical,UMC,1499641,BR
+Cimahi,Cimahi,-6.87222,107.5425,Tropical,LMC,590782,ID
+Brazzaville,Brazzaville,-4.26613,15.28318,Tropical,LMC,1982000,CG
+Indore,Indore,22.71792,75.8333,Tropical,LMC,1994397,IN
+Buôn Ma Thuột,Bun_Ma_Thut,12.66747,108.03775,Tropical,LMC,434256,VN
+Surat,Surat,21.19594,72.83023,Tropical,LMC,4591246,IN
+Bhilai,Bhilai,21.20919,81.4285,Tropical,LMC,627734,IN
+Petare,Petare,10.47679,-66.80786,Tropical,LMC,364684,VE
+Kano,Kano,12.00012,8.51672,Tropical,LMC,4910000,NG
+Bhubaneswar,Bhubaneswar,20.27241,85.83385,Tropical,LMC,885363,IN
+Tuen Mun,Tuen_Mun,22.39175,113.97157,Tropical,LMC,507900,HK
+Bắc Từ Liêm,Bc_T_Lim,21.06532,105.74661,Tropical,LMC,340605,VN
+Mandaluyong City,Mandaluyong_City,14.5832,121.0409,Tropical,LMC,465902,PH
+Uvira,Uvira,-3.39534,29.13779,Tropical,LIC,407092,CD
+Goma,Goma,-1.67409,29.22845,Tropical,LIC,432587,CD
+Quelimane,Quelimane,-17.87861,36.88833,Tropical,LIC,349842,MZ
+Kinshasa,Kinshasa,-4.32758,15.31357,Tropical,LIC,16000000,CD
+Zinder,Zinder,13.80716,8.9881,Tropical,LIC,318874,NE
+Al Ḩudaydah,Al_udaydah,14.79781,42.95452,Tropical,LIC,734699,YE
+Sikasso,Sikasso,11.31755,-5.66654,Tropical,LIC,349324,ML
+Nampula,Nampula,-15.11646,39.2666,Tropical,LIC,770379,MZ
+Khartoum North,Khartoum_North,15.64925,32.53458,Tropical,LIC,1012211,SD
+Matadi,Matadi,-5.83861,13.46306,Tropical,LIC,425662,CD
+Kira,Kira,0.4,32.63333,Tropical,LIC,462900,UG
+Kisangani,Kisangani,0.51528,25.19099,Tropical,LIC,1181788,CD
+Ranchi,Ranchi,23.34316,85.3094,Tropical,LMC,1120374,IN
+Anápolis,Anpolis,-16.32667,-48.95278,Tropical,UMC,319587,BR
+Betim,Betim,-19.96778,-44.19833,Tropical,UMC,384000,BR
+Guatemala City,Guatemala_City,14.64072,-90.51327,Tropical,LMC,994938,GT
+Chennai,Chennai,13.08784,80.27847,Tropical,LMC,4681087,IN
+Vellore,Vellore,12.9184,79.13255,Tropical,LMC,484690,IN
+Pekalongan,Pekalongan,-6.8886,109.6753,Tropical,LMC,317524,ID
+Korba,Korba,22.3458,82.69633,Tropical,LMC,419146,IN
+Kurume,Kurume,33.31667,130.51667,Arid,HIC,303579,JP
+Toyonaka,Toyonaka,34.78244,135.46932,Arid,HIC,401558,JP
+Wakayama,Wakayama,34.23333,135.16667,Arid,HIC,356729,JP
+Tampa,Tampa,27.94752,-82.45843,Arid,HIC,414547,US
+Ras Al Khaimah,Ras_Al_Khaimah,25.78953,55.9432,Arid,HIC,351943,AE
+Suita,Suita,34.76143,135.51567,Arid,HIC,385567,JP
+Miyazaki,Miyazaki,31.91667,131.41667,Arid,HIC,401339,JP
+Al Kharj,Al_Kharj,24.15541,47.33457,Arid,HIC,425300,SA
+Newcastle,Newcastle,-32.92953,151.7801,Arid,HIC,508437,AU
+Kobe,Kobe,34.6913,135.183,Arid,HIC,1525152,JP
+Phoenix,Phoenix,33.44838,-112.07404,Arid,HIC,1650070,US
+Nishinomiya,Nishinomiya,34.71562,135.33199,Arid,HIC,485587,JP
+Jardim Angela,Jardim_Angela,-23.71636,-46.76872,Arid,UMC,311432,BR
+Jiading,Jiading,31.38575,121.24465,Arid,UMC,1886100,CN
+Ensenada,Ensenada,31.87149,-116.60071,Arid,UMC,443807,MX
+Thembisa,Thembisa,-25.99636,28.2268,Arid,UMC,511655,ZA
+Sanming,Sanming,26.24861,117.61861,Arid,UMC,602166,CN
+Sorocaba,Sorocaba,-23.50167,-47.45806,Arid,UMC,687357,BR
+Jiujiang,Jiujiang,29.70475,116.00206,Arid,UMC,1164268,CN
+Anshun,Anshun,26.25,105.93333,Arid,UMC,765313,CN
+Kunming,Kunming,25.03889,102.71833,Arid,UMC,3855346,CN
+Guangyuan,Guangyuan,32.44201,105.823,Arid,UMC,516424,CN
+Lu’an,Luan,31.73561,116.51688,Arid,UMC,1644344,CN
+Suizhou,Suizhou,31.71111,113.36306,Arid,UMC,618582,CN
+Maipú,Maip,-33.51421,-70.7651,Arid,LMC,503635,CL
+Natore,Natore,24.41112,88.98673,Arid,LMC,369138,BD
+Abū al-Kahṣīb,Ab_al_Kahb,30.4431,47.87802,Arid,LMC,357771,IQ
+Ghāziābād,Ghzibd,28.66535,77.43915,Arid,LMC,1199191,IN
+Karnāl,Karnl,29.69197,76.98448,Arid,LMC,302140,IN
+Srinagar,Srinagar,34.08565,74.80555,Arid,LMC,1206419,IN
+Zarqa,Zarqa,32.07275,36.08796,Arid,LMC,792665,JO
+Shekhupura,Shekhupura,31.71287,73.98556,Arid,LMC,591424,PK
+Taoyuan,Taoyuan,24.99368,121.29696,Arid,LMC,475798,TW
+Gujrat,Gujrat,32.5742,74.07542,Arid,LMC,574240,PK
+Jodhpur,Jodhpur,26.26841,73.00594,Arid,LMC,1056191,IN
+Sahiwal,Sahiwal,30.66595,73.10186,Arid,LMC,538344,PK
+Kabul,Kabul,34.52813,69.17233,Arid,LIC,4434550,AF
+Ţarţūs,ars,34.88902,35.88659,Arid,LIC,458327,SY
+Kandahār,Kandahr,31.61332,65.71013,Arid,LIC,523300,AF
+Damascus,Damascus,33.5102,36.29128,Arid,LIC,1569394,SY
+Herāt,Hert,34.34817,62.19967,Arid,LIC,574300,AF
+Maputo,Maputo,-25.96553,32.58322,Arid,LIC,1254837,MZ
+Matola,Matola,-25.96222,32.45889,Arid,LIC,1198988,MZ
+Homs,Homs,34.72405,36.72559,Arid,LIC,775404,SY
+Dammam,Dammam,26.43442,50.10326,Arid,HIC,1252523,SA
+Zhabei,Zhabei,31.25861,121.45972,Arid,UMC,840000,CN
+Al Başrah al Qadīmah,Al_Barah_al_Qadmah,30.50316,47.81507,Arid,LMC,2015483,IQ
+Yancheng,Yancheng,33.3575,120.1573,Arid,UMC,1615717,CN
+Mardan,Mardan,34.19794,72.04965,Arid,LMC,300424,PK
+Heyuan,Heyuan,23.73333,114.68333,Arid,UMC,463907,CN
+Stuttgart,Stuttgart,48.78232,9.17702,Temperate,HIC,612663,DE
+Marne La Vallée,Marne_La_Valle,48.83584,2.64241,Temperate,HIC,318325,FR
+South Boston,South_Boston,42.33343,-71.04949,Temperate,HIC,571281,US
+Pyeongtaek,Pyeongtaek,36.99472,127.08889,Temperate,HIC,364694,KR
+Tulsa,Tulsa,36.15398,-95.99277,Temperate,HIC,413066,US
+Vaughan,Vaughan,43.8361,-79.49827,Temperate,HIC,323103,CA
+Valencia,Valencia,39.47391,-0.37966,Temperate,HIC,824340,ES
+Kyoto,Kyoto,35.02107,135.75385,Temperate,HIC,1463723,JP
+Gumi,Gumi,36.1136,128.336,Temperate,HIC,404691,KR
+Sagamihara,Sagamihara,35.56707,139.24167,Temperate,HIC,720780,JP
+Edogawe,Edogawe,35.69225,139.87308,Temperate,HIC,697932,JP
+Brooklyn,Brooklyn,40.6501,-73.94958,Temperate,HIC,2736074,US
+Xinxiang,Xinxiang,35.19033,113.80151,Temperate,UMC,1047088,CN
+Linfen,Linfen,36.08889,111.51889,Temperate,UMC,959198,CN
+Eskişehir,Eskiehir,39.77667,30.52056,Temperate,UMC,921630,TR
+Xilinhot,Xilinhot,43.93889,116.07021,Temperate,UMC,349953,CN
+Malatya,Malatya,38.35018,38.31667,Temperate,UMC,750491,TR
+Yantai,Yantai,37.47649,121.44081,Temperate,UMC,2227733,CN
+Weifang,Weifang,36.71,119.10194,Temperate,UMC,2044028,CN
+Binzhou,Binzhou,37.36667,118.01667,Temperate,UMC,682717,CN
+Jinzhong,Jinzhong,37.68403,112.75471,Temperate,UMC,1226617,CN
+Datong,Datong,40.09361,113.29139,Temperate,UMC,1850000,CN
+Fushun,Fushun,41.88669,123.94363,Temperate,UMC,1400646,CN
+Antalya,Antalya,36.90812,30.69556,Temperate,UMC,1335002,TR
+Ulan Bator,Ulan_Bator,47.90771,106.88324,Temperate,LMC,844818,MN
+Karaj,Karaj,35.83266,50.99155,Temperate,LMC,1448075,IR
+Tashkent,Tashkent,41.26465,69.21627,Temperate,LMC,1978028,UZ
+Tbilisi,Tbilisi,41.69143,44.83412,Temperate,LMC,1049498,GE
+Andijon,Andijon,40.78338,72.35067,Temperate,LMC,747800,UZ
+Makiyivka,Makiyivka,48.04782,37.92576,Temperate,LMC,338968,UA
+Manukau City,Manukau_City,-36.99282,174.87986,Temperate,LMC,362000,NZ
+Shahrīār,Shahrr,35.65884,51.05775,Temperate,LMC,309607,IR
+Plovdiv,Plovdiv,42.15387,24.75001,Temperate,LMC,329489,BG
+Tirana,Tirana,41.32744,19.81866,Temperate,LMC,418495,AL
+Zanjan,Zanjan,36.67642,48.49628,Temperate,LMC,357471,IR
+Ashgabat,Ashgabat,37.95,58.38333,Temperate,LMC,1030063,TM
+Mazār-e Sharīf,Mazr_e_Sharf,36.70904,67.11087,Temperate,LIC,523300,AF
+Ḩamāh,amh,35.13179,36.75783,Temperate,LIC,460602,SY
+Al Ḩasakah,Al_asakah,36.50237,40.74772,Temperate,LIC,422445,SY
+Aleppo,Aleppo,36.20124,37.16117,Temperate,LIC,2098210,SY
+Latakia,Latakia,35.53125,35.79088,Temperate,LIC,709000,SY
+Ar Raqqah,Ar_Raqqah,35.95283,39.00788,Temperate,LIC,531952,SY
+Las Vegas,Las_Vegas,36.17497,-115.13722,Temperate,HIC,641903,US
+Jinan,Jinan,36.66833,116.99722,Temperate,UMC,4335989,CN
+Erbil,Erbil,36.19117,44.00943,Temperate,LMC,1612700,IQ
+Kashgar,Kashgar,39.46718,75.98675,Temperate,UMC,506640,CN
+Sultangazi,Sultangazi,41.10652,28.86847,Temperate,UMC,436935,TR
+Pohang,Pohang,36.02917,129.36481,Temperate,HIC,492041,KR
+Murcia,Murcia,37.98704,-1.13004,Temperate,HIC,471982,ES
+Algiers,Algiers,36.73225,3.08746,Temperate,LMC,2364230,DZ
+Bristol,Bristol,51.45523,-2.59665,Continental,HIC,479024,GB
+Preston,Preston,53.76282,-2.70452,Continental,HIC,313332,GB
+Nottingham,Nottingham,52.9536,-1.15047,Continental,HIC,323632,GB
+Birkenhead,Birkenhead,53.39337,-3.01479,Continental,HIC,325264,GB
+Glasgow,Glasgow,55.86515,-4.25763,Continental,HIC,626410,GB
+Bradford,Bradford,53.79391,-1.75206,Continental,HIC,366187,GB
+Leipzig,Leipzig,51.33962,12.37129,Continental,HIC,504971,DE
+Düsseldorf,Dsseldorf,51.22319,6.77927,Continental,HIC,618685,DE
+Hamburg-Mitte,Hamburg_Mitte,53.55,10.01667,Continental,HIC,301231,DE
+Münster,Mnster,51.96236,7.62571,Continental,HIC,308258,DE
+Hannover,Hannover,52.37052,9.73322,Continental,HIC,515140,DE
+Reading,Reading,51.45625,-0.97113,Continental,HIC,318014,GB
+Daxing’anling,Daxinganling,52.33385,124.71242,Continental,UMC,520000,CN
+Yaroslavl,Yaroslavl,57.62987,39.87368,Continental,UMC,608722,RU
+Kaliningrad,Kaliningrad,54.70639,20.51102,Continental,UMC,475056,RU
+Tolyatti,Tolyatti,53.5303,49.3461,Continental,UMC,702879,RU
+Surgut,Surgut,61.25757,73.41775,Continental,UMC,300367,RU
+Barnaul,Barnaul,53.36199,83.72786,Continental,UMC,632372,RU
+Kalininskiy,Kalininskiy,59.99675,30.3899,Continental,UMC,504641,RU
+Nizhniy Novgorod,Nizhniy_Novgorod,56.32867,44.00205,Continental,UMC,1259013,RU
+Novosibirsk,Novosibirsk,55.02259,82.93175,Continental,UMC,1612833,RU
+Tula,Tula,54.19609,37.61822,Continental,UMC,482873,RU
+Kurgan,Kurgan,55.44905,65.34344,Continental,UMC,309285,RU
+Pavlodar,Pavlodar,52.27601,76.96881,Continental,UMC,329002,KZ
+Amsterdam,Amsterdam,52.37403,4.88969,Continental,LMC,741636,NL
+Utrecht,Utrecht,52.09083,5.12222,Continental,LMC,376435,NL
+Riga,Riga,56.946,24.10589,Continental,LMC,742572,LV
+Łódź,d,51.77058,19.47395,Continental,LMC,645693,PL
+Mahilyow,Mahilyow,53.90876,30.34044,Continental,LMC,353110,BY
+Espoo,Espoo,60.2052,24.6522,Continental,LMC,323910,FI
+Dniprovskyi,Dniprovskyi,50.45366,30.60146,Continental,LMC,357900,UA
+Kraków,Krakw,50.06143,19.93658,Continental,LMC,804237,PL
+Darnytsya,Darnytsya,50.41596,30.69534,Continental,LMC,343384,UA
+Homyel',Homyel_,52.4345,30.9754,Continental,LMC,501102,BY
+Poznań,Pozna,52.40692,16.92993,Continental,LMC,536151,PL
+Copenhagen,Copenhagen,55.67594,12.56553,Continental,LMC,1153615,DK
+Kursk,Kursk,51.72689,36.18457,Continental,UMC,448733,RU
+Köln,Kln,50.93333,6.95,Continental,HIC,1024621,DE
+Hrodna,Hrodna,53.6758,23.82887,Continental,LMC,361115,BY
+Cherepovets,Cherepovets,59.13333,37.9,Continental,UMC,315738,RU
+Smolensk,Smolensk,54.77826,32.05088,Continental,UMC,330025,RU
+Ryazan’,Ryazan,54.62696,39.70415,Continental,UMC,538962,RU
+London,London,51.50853,-0.12574,Continental,HIC,8961989,GB
+Astana,Astana,51.1801,71.44598,Continental,UMC,345604,KZ
+Chelyabinsk,Chelyabinsk,55.1611,61.42877,Continental,UMC,1202371,RU
+Wandsbek,Wandsbek,53.58334,10.08305,Continental,HIC,411422,DE
+Izhevsk,Izhevsk,56.85225,53.19862,Continental,UMC,648213,RU
+Kazan,Kazan,55.78874,49.12214,Continental,UMC,1243500,RU
+Brussels,Brussels,50.85045,4.34878,Continental,LMC,1019022,BE
+Kaluga,Kaluga,54.53063,36.27,Continental,UMC,340851,RU
